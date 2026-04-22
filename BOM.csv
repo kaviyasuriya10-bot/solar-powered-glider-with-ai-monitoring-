@@ -1,11 +1,11 @@
 Component,Qty,Est. Cost (USD)
 Pixhawk 2.4.8,1,85
 CN3722 MPPT Solar Charge Module,1,8
-Flexible Solar Cells (compact wing-fit set),1,30
-LiPo Battery 3S 2200mAh,1,14
+Flexible Solar Cells (compact wing-fit set),1,4
+LiPo Battery 3S 2200mAh,1,30
 Brushless Motor (A2212 class),1,9
 30A ESC,1,9
 Servo Motors (9g),4,12
-Encoder (AS5048A or similar),1,12
 RadioLink AT9S Pro Transmitter,1,120
-RadioLink Receiver,1,35
+RadioLink Receiver,1,25
+BMS board,1,2

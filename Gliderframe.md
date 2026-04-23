@@ -1,6 +1,6 @@
 ## Airframe Design (CAD Model Explanation)
 
-The airframe of the solar-powered glider is developed using CAD software such as Fusion 360 to create a precise and scalable 3D model. The design is divided into key components: fuselage, wings, and tail assembly.
+The airframe of the solar-powered glider is developed using CAD software such as Fusion 360 to create a precise and scalable 3D model. The design is divided into key components: fuselage, wings, and tail  assembly.
 
 ### Fuselage
 

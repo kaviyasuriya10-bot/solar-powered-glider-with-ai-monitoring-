@@ -56,6 +56,8 @@ This project is currently in the design and prototyping phase. Hardware integrat
 * Solar energy-aware navigation
 * Autonomous landing system
 * Advanced telemetry and data logging
+* components can be added are,caddx Ratel 2 Micro FPV Camera,
+thermal sensor,imax charger,
 
 ---
 

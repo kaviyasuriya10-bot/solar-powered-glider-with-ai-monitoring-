@@ -1,17 +1,19 @@
 ## Overview
 
-This project presents the design and development of a solar-powered autonomous glider with AI-based monitoring capabilities. The system combines renewable energy, embedded electronics, and flight control to enable efficient and long-endurance aerial operation.
+This project presents the design and development of a solar-powered autonomous glider with AI-based monitoring capabilities. The system integrates renewable energy, embedded electronics, and flight control to enable efficient and long-endurance aerial operation.
 
-<img width="1793" height="1253" alt="image" src="https://github.com/user-attachments/assets/b6b901fc-1503-4f5c-ac58-f5eaf1de84e6" />
+![Solar Glider](https://github.com/user-attachments/assets/b6b901fc-1503-4f5c-ac58-f5eaf1de84e6)
 
-The glider uses solar panels to supplement battery power, allowing extended flight duration while reducing dependence on ground charging. A flight controller manages stabilization and navigation, while onboard electronics monitor system performance in real time.
+The glider uses solar panels to supplement battery power, extending flight duration while reducing dependence on ground charging. A flight controller manages stabilization and navigation, while onboard electronics monitor system performance in real time.
 
 ---
+
+<img width="1793" height="1253" alt="image" src="https://github.com/user-attachments/assets/b6b901fc-1503-4f5c-ac58-f5eaf1de84e6" />
 
 ## Key Features
 
 * Solar-assisted power system for extended endurance
-* Autonomous flight using Pixhawk and ArduPlane firmware
+* Autonomous flight using Pixhawk and ArduPlane
 * Real-time telemetry and system monitoring
 * Lightweight fixed-wing glider design
 * Modular architecture for future AI integration
@@ -20,11 +22,11 @@ The glider uses solar panels to supplement battery power, allowing extended flig
 
 ## System Components
 
-* Flight Controller: Pixhawk
-* Power System: LiPo battery + solar panels + MPPT (CN3722)
-* Sensors: IMU, GPS, barometer, compass
-* Communication: Telemetry module
-* Actuators: Servo motors and brushless motor (ESC controlled)
+* **Flight Controller:** Pixhawk
+* **Power System:** LiPo battery + solar panels + CN3722 MPPT
+* **Sensors:** IMU, GPS, barometer, compass
+* **Communication:** Telemetry module
+* **Actuators:** Servo motors and brushless motor (ESC controlled)
 
 ---
 
@@ -36,11 +38,11 @@ Solar panels generate energy during flight and charge the battery through an MPP
 
 ## Repository Structure
 
-* firmware/ → Pixhawk configuration and control logic
-* hardware/ → Wiring diagrams and system design
-* cad/ → 3D models of the glider
-* docs/ → Documentation and project journal
-* bom.csv → Bill of materials
+* `firmware/` → Pixhawk configuration and companion control code
+* `hardware/` → Wiring diagrams and system design
+* `cad/` → 3D models of the glider
+* `docs/` → Documentation and design explanations
+* `bom.csv` → Bill of materials
 
 ---
 
@@ -56,8 +58,11 @@ This project is currently in the design and prototyping phase. Hardware integrat
 * Solar energy-aware navigation
 * Autonomous landing system
 * Advanced telemetry and data logging
-* components can be added are,caddx Ratel 2 Micro FPV Camera,
-thermal sensor,imax charger,
+* Optional upgrades:
+
+  * Caddx Ratel 2 Micro FPV Camera
+  * Thermal sensor (for environmental monitoring)
+  * External charger (e.g., IMAX B6)
 
 ---
 

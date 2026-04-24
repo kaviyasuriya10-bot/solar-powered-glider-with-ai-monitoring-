@@ -1,15 +1,13 @@
-Component,Qty,Est. Cost (USD)
-Pixhawk 2.4.8,1,70
-CN3722 MPPT Solar Charge Module,1,5
-Flexible Solar Cells (compact wing-fit set),1,4
-LiPo Battery 3S 2200mAh,1,(21.32)
-30A ESC,Brushless Motor (A2212 class),1,(13.50)
-Servo Motors (9g),3,3
-RadioLink AT9S Pro Transmitter,1,120
-RadioLink Receiver,1,25
-BMS board,1,2
-imax battery charger,1,5
-glider frame(eclipeson),1,56
-caddx Ratel 2 Micro FPV Camera,1,26
-thermal sensor,1,56
-UBEC,1,2
+Component,Quantity,Cost (USD)
+Pixhawk Flight Controller,1,75
+Brushless Motor (2212),1,7
+ESC (30A),1,7
+Servo Motor (9g),3,6
+LiPo Battery (3S 2200mAh),1,23
+Flexible Solar Panels,1,4
+CN3722 MPPT Module,1,8
+UBEC (5V 3A),1,5
+Radiolink AT9S Pro (Tx+Rx),1,120
+Eclipson Airframe (3D printed),1,20
+
+Total,,275

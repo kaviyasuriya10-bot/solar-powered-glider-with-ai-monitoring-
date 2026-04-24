@@ -69,3 +69,7 @@ This project is currently in the design and prototyping phase. Hardware integrat
 ## Goal
 
 To develop a low-cost, efficient, and scalable solar-powered UAV platform for research, learning, and real-world applications.
+
+NOTE:
+Some basic components like connectors and wiring are already available and not included in the cost.
+other components like GPS,gyro sensor,barometer,altitude sensor and some other

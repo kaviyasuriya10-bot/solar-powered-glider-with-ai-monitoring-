@@ -8,8 +8,6 @@ The glider uses solar panels to supplement battery power, extending flight durat
 
 ---
 
-<img width="1793" height="1253" alt="image" src="https://github.com/user-attachments/assets/b6b901fc-1503-4f5c-ac58-f5eaf1de84e6" />
-
 ## Key Features
 
 * Solar-assisted power system for extended endurance

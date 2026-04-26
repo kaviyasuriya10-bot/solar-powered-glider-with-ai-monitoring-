@@ -6,12 +6,6 @@ The Pixhawk is the main control unit of the glider. It processes sensor data and
 
 ---
 
-### Microcontroller
-
-The Arduino Uno R4 WiFi is used for additional tasks such as sensor monitoring, data processing, and future AI integration. It acts as a companion system to handle custom logic.
-
----
-
 ### Solar Panel
 
 Flexible solar panels are mounted on the wings to generate electrical energy during flight. They help extend flight time by supplementing the battery power.
@@ -52,7 +46,7 @@ Servo motors control the aircraft’s movement:
 
 ---
 
-### Telemetry Module
+### Telemetry Module(Future upgrade)
 
 The telemetry system allows wireless communication between the glider and the ground station. It sends real-time data such as battery status, GPS position, and flight parameters.
 

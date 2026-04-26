@@ -68,6 +68,14 @@ This project is currently in the design and prototyping phase. Hardware integrat
 
 To develop a low-cost, efficient, and scalable solar-powered UAV platform for research, learning, and real-world applications.
 
-NOTE:
+## NOTE:
 Some basic components like connectors and wiring are already available and not included in the cost.
 other components like GPS,gyro sensor,barometer,altitude sensor and some other
+
+## Badges Justification
+
+CAD: Airframe designed using CAD modeling for aerodynamic structure.
+
+Motors: Brushless motor and servos are used for propulsion and control surfaces.
+
+I2C: Sensors such as IMU and GPS communicate with the flight controller using I2C protocol.
